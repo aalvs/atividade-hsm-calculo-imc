@@ -57,12 +57,8 @@ Obesidade: Grau III
 <br/>
 <a href='https://www.w3schools.com/html/'>HTML5</a>
 <br/>
-<a href='https://www.w3schools.com/css/'>CSS3</a>
-<br/>
 <a href='https://code.visualstudio.com/'>Visual Studio Code</a>
 <br/>
-
-
 
 # 📝 Sobre o projeto
 
